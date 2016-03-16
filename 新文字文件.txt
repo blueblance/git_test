@@ -9,3 +9,4 @@ branch3 ver1
 =======
 master banch ver2
 >>>>>>> refs/remotes/origin/master
+branch2 ver 4
