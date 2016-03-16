@@ -1,2 +1,11 @@
 version1
+<<<<<<< HEAD
 master banch ver2
+=======
+branc2 ver2
+<<<<<<< HEAD
+branch2 ver 3
+=======
+branch3 ver1
+>>>>>>> origin/branch3
+>>>>>>> refs/remotes/origin/branch2
