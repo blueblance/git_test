@@ -7,3 +7,6 @@
 >>>>>>> origin/branch3
 
 branch 2 ver 4
+old branc2 ver 5
+branc2 ver6
+b2 v7
