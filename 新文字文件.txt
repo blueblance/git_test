@@ -1,3 +1,7 @@
 version1
 branc2 ver2
+<<<<<<< HEAD
 branch2 ver 3
+=======
+branch3 ver1
+>>>>>>> origin/branch3
