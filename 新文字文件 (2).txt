@@ -7,4 +7,3 @@
 >>>>>>> origin/branch3
 
 branch 2 ver 4
-new master ver1
